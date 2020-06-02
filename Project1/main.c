@@ -1,5 +1,4 @@
 #include <stdio.h>
 void main() {
-	printf("Comsil 5 week github project 1");
-	printf("Commit 1");
+	printf("Git for Comsil 5 week github project 1");
 }
